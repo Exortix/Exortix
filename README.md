@@ -45,40 +45,40 @@
 A polyglot at heart:
 <table>
   <tr>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=python"  alt="icon" width="36" height="36"/><br>python</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=js"      alt="icon" width="36" height="36"/><br>JavaScript</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=golang"  alt="icon" width="36" height="36"/><br>golang</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=cpp"     alt="icon" width="36" height="36"/><br>C++</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=php"     alt="icon" width="36" height="36"/><br>php</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=ruby"    alt="icon" width="36" height="36"/><br>ruby</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=java"    alt="icon" width="36" height="36"/><br>java</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=cs"      alt="icon" width="36" height="36"/><br>C#</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=lua"     alt="icon" width="36" height="36"/><br>lua</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=vscode"  alt="icon" width="36" height="36"/><br>vscode</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python"  alt="icon" width="36" height="36"/><br>python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js"      alt="icon" width="36" height="36"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=golang"  alt="icon" width="36" height="36"/><br>golang</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp"     alt="icon" width="36" height="36"/><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php"     alt="icon" width="36" height="36"/><br>php</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ruby"    alt="icon" width="36" height="36"/><br>ruby</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java"    alt="icon" width="36" height="36"/><br>java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs"      alt="icon" width="36" height="36"/><br>C#</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=lua"     alt="icon" width="36" height="36"/><br>lua</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode"  alt="icon" width="36" height="36"/><br>vscode</td>
   </tr>
   <tr>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=git"           alt="icon" width="36" height="36"/><br>Git</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=github"        alt="icon" width="36" height="36"/><br>Github</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=unity"         alt="icon" width="36" height="36"/><br>unity</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="36" height="36"/><br>android</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=arduino"       alt="icon" width="36" height="36"/><br>arduino</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=wordpress"     alt="icon" width="36" height="36"/><br>wordpress</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=godot"         alt="icon" width="36" height="36"/><br>godot</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=flutter"       alt="icon" width="36" height="36"/><br>flutter</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=tensorflow"    alt="icon" width="36" height="36"/><br>tensorflow</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=dotnet"        alt="icon" width="36" height="36"/><br>dotnet</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git"           alt="icon" width="36" height="36"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github"        alt="icon" width="36" height="36"/><br>Github</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity"         alt="icon" width="36" height="36"/><br>unity</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="36" height="36"/><br>android</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino"       alt="icon" width="36" height="36"/><br>arduino</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress"     alt="icon" width="36" height="36"/><br>wordpress</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=godot"         alt="icon" width="36" height="36"/><br>godot</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter"       alt="icon" width="36" height="36"/><br>flutter</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow"    alt="icon" width="36" height="36"/><br>tensorflow</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet"        alt="icon" width="36" height="36"/><br>dotnet</td>
   </tr>
   <tr>
-    <td align="center" width="48"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="36" height="36"/><br>ionic</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=electron"                                            width="36" height="36"/><br>electron</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=sqlite"                                              width="36" height="36"/><br>sqlite</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=mysql"                                               width="36" height="36"/><br>mysql</td>
-    <td align="center" width="48"><img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"             width="36" height="36"/><br>Quartus</td>
-    <td align="center" width="48"><img src="img/burpsuite.jpg "  width="36" height="36"><br>burpsuite</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=html"                                                width="36" height="36"/><br>html</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=css"                                                 width="36" height="36"/><br>CSS</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=bootstrap"                                           width="36" height="36"/><br>Bootstrap</td>
-    <td align="center" width="48"><img src="https://skillicons.dev/icons?i=linux"                                               width="36" height="36"/><br>linux</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="36" height="36"/><br>ionic</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron"                                            width="36" height="36"/><br>electron</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite"                                              width="36" height="36"/><br>sqlite</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql"                                               width="36" height="36"/><br>mysql</td>
+    <td align="center" width="96"><img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"             width="36" height="36"/><br>Quartus</td>
+    <td align="center" width="96"><img src="img/burpsuite.svg "  width="36" height="36"><br>burpsuite</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html"                                                width="36" height="36"/><br>html</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css"                                                 width="36" height="36"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap"                                           width="36" height="36"/><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux"                                               width="36" height="36"/><br>linux</td>
   </tr>
 </table>
 
