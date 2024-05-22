@@ -1,4 +1,3 @@
-# Hello, World! 👋
 ## My name is Fares Alashkar and I am a(n)...
 - **Full Stack Developer**: Building dynamic and interactive web experiences.
 - **Hardware Enthusiast**: Delving into the intricacies of Embedded devices and FPGAs.
@@ -41,7 +40,7 @@ A polyglot at heart:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java"    alt="icon" width="48" height="48"/><br>java</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs"      alt="icon" width="48" height="48"/><br>C#</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=lua"     alt="icon" width="48" height="48"/><br>lua</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode"  alt="icon" width="48" height="48"/><br>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode"  alt="icon" width="48" height="48"/><br>vscode</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git"           alt="icon" width="48" height="48"/><br>Git</td>
@@ -60,8 +59,8 @@ A polyglot at heart:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron"                                            width="48" height="48"/><br>electron</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite"                                              width="48" height="48"/><br>sqlite</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql"                                               width="48" height="48"/><br>mysql</td>
-    <td align="center" width="96"><img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"             width="48" height="48"/><br>Quartus Prime</td>
-    <td align="center" width="96"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24"><path fill="#ea580c" d="M0 0v24h24V0Zm11.063 3.357h1.874v2.756L10.41 9.2h2.527v3.748h4.579l-4.578 5.592v2.104h-1.876v-2.758L13.59 14.8h-2.527v-3.75h-4.58l4.58-5.592Z" /></svg><br>burpsuite</td>
+    <td align="center" width="96"><img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"             width="48" height="48"/><br>Quartus</td>
+    <td align="center" width="96"><img src="img/burpsuite.svg "  width="48" height="48"><br>burpsuite</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html"                                                width="48" height="48"/><br>html</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css"                                                 width="48" height="48"/><br>CSS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap"                                           width="48" height="48"/><br>Bootstrap</td>
@@ -74,9 +73,17 @@ This is just the beginning of the story. Come explore my projects, share your th
 
 ## Connect with me
 
-- [**GitHub**](https://github.com/Exortix)
-- [**LinkedIn**](http://linkedin.com/fares-alashkar)
-- [**Twitter**](https://twitter.com/fares_alashkar)
-- [**Mail**](mailto:fares.ashkar77@gmail.com)
+  <!-- [**GitHub**](https://github.com/Exortix) [**LinkedIn**](http://linkedin.com/fares-alashkar) [**Twitter**](https://twitter.com/fares_alashkar) [**Mail**](mailto:fares.ashkar77@gmail.com) -->
+  <div>
+  <a href="https://www.linkedin.com/in/fares-alashkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href=" mailto:fares.ashkar77@gmail.com?subject=Github%20Contact " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/fares_alashkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
 Let's make the digital world a symphony of collaboration and innovation!
