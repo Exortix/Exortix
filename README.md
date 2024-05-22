@@ -74,7 +74,7 @@ A polyglot at heart:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite"                                              width="36" height="36"/><br>sqlite</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql"                                               width="36" height="36"/><br>mysql</td>
     <td align="center" width="96"><img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"             width="36" height="36"/><br>Quartus</td>
-    <td align="center" width="96"><img src="img/burpsuite.svg "  width="36" height="36"><br>burpsuite</td>
+    <td align="center" width="96"><img src="img/burpsuite.jpg "  width="36" height="36"><br>burpsuite</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html"                                                width="36" height="36"/><br>html</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css"                                                 width="36" height="36"/><br>CSS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap"                                           width="36" height="36"/><br>Bootstrap</td>
