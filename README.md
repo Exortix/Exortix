@@ -1,10 +1,12 @@
 <!-- ## Hello, World 👋! My name is Fares Alashkar -->
-## My name is Fares Alashkar and I am a(n)...
+## My name is Fares Alashkar and I am...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=2236F7&vCenter=true&random=false&width=435&lines=A+Full+Stack+Developer;A+Hardware+Enthusiast;A+Competitive+Programmer;A+Game+Developer;An+AI+Explorer)](https://git.io/typing-svg)
+<!-- ## My name is Fares Alashkar and I am a(n)...
 - **Full Stack Developer**: Building dynamic and interactive web experiences.
 - **Hardware Enthusiast**: Delving into the intricacies of Embedded devices and FPGAs.
 - **AI Explorer**: Tinkering with the possibilities of artificial intelligence.
 - **Game Developer**: Creating immersive worlds and crafting compelling narratives.
-- **Coding Challenge Enthusiast**: Embracing competitive programming to push my limits.
+- **Coding Challenge Enthusiast**: Embracing competitive programming to push my limits. -->
 ## Connect with me
   <div>
   <a href="https://www.linkedin.com/in/fares-alashkar" target="_blank">
